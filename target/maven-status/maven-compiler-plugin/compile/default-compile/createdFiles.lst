@@ -1,0 +1,4 @@
+com\choucair\step\web\ChoucairStep.class
+com\choucair\generic\WebDriverDOM.class
+com\choucair\page\web\ChoucairHome.class
+com\choucair\stepDefinitions\web\WebStepDefinitions.class
