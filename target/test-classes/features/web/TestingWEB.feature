@@ -1,7 +1,7 @@
 @web
 Feature:  Ingresar a la opcion empleos en la pagina de Choucair
 
-  @AperturaSimple
+  @BuscarEmpleos
   Scenario: Ingresar a la opcion empleos de Choucair
     Given que el usuario accede a la web de choucair
     When click en la opcion Empleos

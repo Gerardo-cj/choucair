@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8559904c-290a-4e76-a246-b47f89f36d05" name="Default Changelist" comment="" />
+    <list default="true" id="8559904c-290a-4e76-a246-b47f89f36d05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/web/TestingWEB.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/web/TestingWEB.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/empleos-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/empleos-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.choucair.WebTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.choucair.WebTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.choucair.WebTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/com.choucair.WebTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +30,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1axlPvulv3bwqkR6rrGF2b3LSgW" />
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="KND" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CHOUCAIR/base-continous-testing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ddg/choucair" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -109,5 +119,18 @@
       <updated>1587685104847</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
